@@ -48,7 +48,7 @@ const Timeline = () => {
       <SectionText>
         The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
       </SectionText>
-      <CarouselContainer ref={carouselRef} onClick={handleScroll}>
+      <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
         {TimeLineData.map((item, index) => (
           <CarouselMobileScrollNode key={index} final={index === TOTAL_CAROUSEL_COUNT - 1}>
