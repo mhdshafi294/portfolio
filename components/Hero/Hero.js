@@ -17,10 +17,10 @@ const Hero = (props) => (
         Shafik's Portfolio
       </SectionTitle>
       <SectionText>
-        I am an ambitious computer science student looking to be a React, NextJS
-        developer soon, with a particular interest in making things simple. I
-        try to keep up with best practices and am always looking for new things
-        to learn.
+        I am an ambitious front-end React.JS, and Next13JS developer, with a
+        particular interest in making things simple, robust, and pretty. I try
+        to keep up with best practices and am always looking for new things to
+        learn.
       </SectionText>
       <Button
         onClick={() => (window.location = "https://github.com/mhdshafi294")}
