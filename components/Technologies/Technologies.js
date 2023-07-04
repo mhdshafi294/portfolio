@@ -8,8 +8,8 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range a technologies in the web development world,
+      Focusing on most efficient frontend developing technologies.
     </SectionText>
     <List>
       <ListItem>
@@ -27,7 +27,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-          Experiece with <br />
+          Little experiece with <br />
           MongoDB
           </ListParagraph>
         </ListContainer>
