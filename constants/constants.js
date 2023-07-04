@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'Promptopia',
+    description: "Using React, NextJS, Tailwind & MongoDB, Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts",
       image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['React', 'NextJS', 'Tailwind', 'Mongo'],
+    source: 'https://github.com/mhdshafi294/promptopia',
+    visit: 'https://promptopia-seven-iota.vercel.app/',
     id: 0,
   },
   {

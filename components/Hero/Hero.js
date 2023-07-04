@@ -17,7 +17,7 @@ const Hero = (props) => (
         Shafik's Portfolio
       </SectionTitle>
       <SectionText>
-        I am an ambitious front-end React.JS, and Next13JS developer, with a
+        I am an ambitious front-end React.JS, and Next13 JS developer, with a
         particular interest in making things simple, robust, and pretty. I try
         to keep up with best practices and am always looking for new things to
         learn.
