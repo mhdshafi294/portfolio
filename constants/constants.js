@@ -40,7 +40,7 @@ export const projects = [
     image: '/images/4.png',
     tags: ['React', 'NextJS', 'JavaScript'],
     source: 'https://github.com/mhdshafi294/houseHunter',
-    visit: 'https://google.com',
+    visit: 'https://github.com/mhdshafi294/houseHunter',
     id: 3,
   },
 ];
