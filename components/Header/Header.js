@@ -1,15 +1,30 @@
-import Link from 'next/link';
-import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
-import { DiCssdeck } from 'react-icons/di';
+import Link from "next/link";
+import React from "react";
+import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
+import { DiCssdeck } from "react-icons/di";
 
-import { Container, Span1, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyles';
+import {
+  Container,
+  Span1,
+  Div1,
+  Div2,
+  Div3,
+  NavLink,
+  SocialIcons,
+} from "./HeaderStyles";
 
-const Header = () =>  (
+const Header = () => (
   <Container>
     <Div1>
       <Link legacyBehavior href="/">
-        <a style={{display: "flex", alignItems: "center", color: 'white', marginBottom: "20"}}>
+        <a
+          style={{
+            display: "flex",
+            alignItems: "center",
+            color: "white",
+            marginBottom: "20",
+          }}
+        >
           <DiCssdeck size="3rem" /> <Span1>Portfolio</Span1>
         </a>
       </Link>
@@ -32,7 +47,7 @@ const Header = () =>  (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/mhdshafi294">
         <AiFillGithub size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://linkedin.com">
