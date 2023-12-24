@@ -29,6 +29,7 @@ const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             React.JS | Next.JS <br />
+            Zustand.JS | Redux.JS <br />
             TypeScript | ShadCnUi <br />
             CSS | Tailwind
           </ListParagraph>
