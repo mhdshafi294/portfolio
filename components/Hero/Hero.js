@@ -29,7 +29,7 @@ const Hero = (props) => {
             return event.target.dataset.value[index];
           }
 
-          return letters[Math.floor(Math.random() * 26)];
+          return smallLetters[Math.floor(Math.random() * 26)];
         })
         .join("");
 
@@ -71,7 +71,7 @@ const Hero = (props) => {
   };
 
   useEffect(() => {
-    console.log("hi");
+    console.log("Hi");
     hackEffectOnLoad(helloRef.current);
   }, []);
 
@@ -90,9 +90,9 @@ const Hero = (props) => {
           </p>
           This is <br />
           <span
-            onMouseOver={(event) => {
-              hackEffect(event);
-            }}
+            // onMouseOver={(event) => {
+            //   hackEffect(event);
+            // }}
             ref={nameRef}
             data-value="Shafik's"
           >
