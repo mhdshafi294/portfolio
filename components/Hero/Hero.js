@@ -102,10 +102,11 @@ const Hero = (props) => {
         </SectionTitle>
         <br />
         <SectionText>
-          I am an ambitious front-end React.JS, and Next13 JS developer, with a
-          particular interest in making things simple, robust, and pretty. I try
-          to keep up with best practices and am always looking for new things to
-          learn.
+          I an ambitious front-end React.JS,  Next.JS developer, with a
+          particular interest in making things robust, maintainable, scalable,
+          clean and pretty. I try to keep up with best practices, sharping my
+          skills, and build a respectful prestigious career reputation, and I'm
+          always looking for new things to learn.
         </SectionText>
         <Button
           onClick={() => (window.location = "https://github.com/mhdshafi294")}
