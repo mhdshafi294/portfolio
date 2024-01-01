@@ -20,7 +20,10 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range a technologies in the web development world,
-      Focusing on most efficient frontend developing technologies.
+      Focusing on most efficient frontend developing technologies. I have a good
+      understanding for OOP(Object Oriented Programming) and gain some deep
+      experience with React library and Next.JS framework using TypeScript,
+      Redux, Zustand, and many more as frontend developer.
     </SectionText>
     <List>
       <ListItem>

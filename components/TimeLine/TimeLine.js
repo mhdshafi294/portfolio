@@ -72,16 +72,9 @@ const Timeline = () => {
         maintainable, scalable, clean and pretty. I try to keep up with best
         practices, sharping my skills, and build a respectful prestigious career
         reputation, and I'm always looking for new things to learn. Now I'm
-        seeking a new opportunity, and I encountered with your job opportunity
-        in Forsa application and after reviewing the job requirements and
-        responsibilities I feel confident to ensure that my skills align with
-        them. I have a good understanding for OOP(Object Oriented Programming)
-        and gain some deep experience with React library and Next.JS framework
-        using TypeScript, Redux, Zustand, and many more as frontend developer.
-        Please feel free to check my portfolio, my GitHub account, and some of
-        my projects. My first priority at this stage of my career is to gain
-        more and more experience and build a great and prestigious reputation
-        ethnically and professionally in the industry.
+        seeking a new opportunity. My first priority at this stage of my career
+        is to gain more and more experience and build a great and prestigious
+        reputation ethnically and professionally in the industry.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
