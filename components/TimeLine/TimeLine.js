@@ -67,14 +67,15 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        This is Shafik AlNahhas an ambitious front-end React.JS,  Next.JS
+        This is Shafik AlNahhas an ambitious front-end React.JS, Next.JS
         developer, with a particular interest in making things robust,
         maintainable, scalable, clean and pretty. I try to keep up with best
         practices, sharping my skills, and build a respectful prestigious career
-        reputation, and I'm always looking for new things to learn. Now I'm
-        seeking a new opportunity. My first priority at this stage of my career
-        is to gain more and more experience and build a great and prestigious
-        reputation ethnically and professionally in the industry.
+        reputation, and I'm always looking for new things to learn and to
+        deliever a great added value to the community. Now I'm seeking a new
+        opportunity. My priority at this stage of my career is to gain more and
+        more experience and build a great and prestigious reputation ethnically
+        and professionally in the industry.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
