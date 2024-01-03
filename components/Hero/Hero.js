@@ -104,7 +104,7 @@ const Hero = (props) => {
         <SectionText>
           I'm an ambitious front-end React.JS, Next.JS developer, with a
           particular interest in making things robust, maintainable, scalable,
-          clean and pretty. I try to keep up with best practices, sharping my
+          clean, and pretty. I try to keep up with best practices, sharping my
           skills, and build a respectful prestigious career reputation, and I'm
           always looking for new things to learn.
         </SectionText>
